@@ -17,5 +17,9 @@
   "devDependencies": {},
   "keywords": ["emoji", "puzzle", "game"],
   "author": "Your Name <your.email@example.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/emoji-puzzle-game.git"
+  }
 }
