@@ -16,6 +16,6 @@
   },
   "devDependencies": {},
   "keywords": ["emoji", "puzzle", "game"],
-  "author": "Your Name",
+  "author": "Your Name <your.email@example.com>",
   "license": "MIT"
 }
